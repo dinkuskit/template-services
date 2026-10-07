@@ -4,6 +4,6 @@ This temporary documentation-only pull request verifies draft exclusion,
 ready-for-review admission, and review of a subsequent source revision.
 It is not intended to merge. No application behavior changes.
 
-Canary revision: 2.
+Canary revision: 3.
 
-Draft event proof after enabling the reviewed relay; no review should start yet.
+Final fresh-revision probe after the Dinkus-only publisher binding cutover.
